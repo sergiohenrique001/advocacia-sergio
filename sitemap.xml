@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/</loc>
+        <priority>1.0</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/index.html</loc>
+        <priority>1.0</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/sobre.html</loc>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/servicos.html</loc>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/contato.html</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/blog/blog.html</loc>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/blog/artigo.html?slug=como-reduzir-passivos-trabalhistas-em-empresas</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/blog/artigo.html?slug=consultoria-trabalhista-preventiva-para-empresas</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/blog/artigo.html?slug=como-funciona-negociacao-coletiva-trabalhista</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/blog/artigo.html?slug=principais-erros-do-rh-que-geram-processos</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/blog/artigo.html?slug=o-que-fazer-antes-de-demitir-um-funcionario</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://advocacia-sergio.vercel.app/blog/artigo.html?slug=direitos-e-deveres-na-relacao-de-emprego</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+</urlset>
